@@ -24,3 +24,6 @@ artifacts/
 
 # ImageBuilder directory
 .Microsoft.DotNet.ImageBuilder
+
+# Sonarqube directory
+.sonarqube/
